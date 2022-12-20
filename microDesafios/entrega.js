@@ -1,0 +1,3 @@
+const {aparelhosProntos} = require("./listarAparelhos");
+
+
